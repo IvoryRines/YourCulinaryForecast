@@ -52,7 +52,7 @@ Your Culinary Forecast is a web application that provides weather-appropriate re
 
 ## Contributors
 
-- Ivory Rines: () [Github](https://github.com/IvoryRines)
+- Ivory Rines: [Github](https://github.com/IvoryRines)
 - Stephen Cooper: [Github](https://github.com/Scoops113)
 - Roberto Martinez: [Github](https://github.com/Sora0216)
 - Juan Garcia: [Github](https://github.com/Jddg95)
