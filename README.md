@@ -1,5 +1,5 @@
 
-# Seasonal Eats
+# Your Culinary Forecast
 
 
 ## Description
